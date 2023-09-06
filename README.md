@@ -5,10 +5,7 @@ The design, along with the graphics, was provided in Figma.
 
 The website's appearance, along with the animations, is consistent with the design.
 
-Technology used:
--HTML
--CSS
--JavaScript
+HTML | CSS | JavaScript
 
 
 
